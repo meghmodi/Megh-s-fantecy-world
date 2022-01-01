@@ -1,0 +1,180 @@
+/*************************************  Divisons  ***********************************/
+div.frame{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: #EAEAEA;
+    position: absolute;
+    left: 195px;
+    top: 24px;
+
+}
+div.top {
+    color: #142F43;
+    font-family: 'Sacramento', cursive,'Brush Script MT', cursive;
+    background-color: #A2CDCD;
+    text-align: center;
+}
+     
+
+div.middle{
+    color: #142F43;
+    text-align: center;
+    font-family:'Source Sans Pro', sans-serif;
+    background-color: #EAEAEA;
+    padding-top: 10px;
+    font-size: 120%;
+}
+div.frame1{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #A2CDCD;
+    position: relative;
+    left: 42.5%;
+    
+}
+.skill{
+    color: #142F43;
+    padding: 0% 25%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.contact{
+    text-align: center;
+    background-color: #EAEAEA;
+    color: #142F43;
+    padding-bottom: 70px;
+}
+.contact1{
+    background-color: darkcyan;
+    text-align: center;
+    margin-bottom: 0px;
+    padding: 40px 0px 40px;
+    color: #A2CDCD ;
+}
+
+
+/*************************************  Others  ***********************************/
+
+
+
+
+#head {
+    font-size: 5em;
+    text-align: center;
+    margin-top: 0%;
+    width:10%;
+    margin: 0px auto;
+}
+#para {
+    font-size: 2.5rem;
+    margin: 0px;
+}
+h2{
+    color: #142F43;
+}
+h3{
+    color: #142F43;
+}
+hr{
+    background-color: #EAEAEA;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #A2CDCD ;
+    border-width: 10px;
+    width: 50px;
+    margin: 70px auto 70px auto;
+}
+p{
+    margin: 40px auto 4 0px auto;
+}
+a{
+    color: #A2CDCD ;
+    
+}
+
+
+/*************************************  Images  ***********************************/
+
+
+.icon{
+    height: 150px;
+    width: 150px;
+    position: relative;
+    bottom: 3px;
+    left: 3px;
+}
+.birds{
+    height: 260px;
+    width: 380px;
+    position: relative;
+    top: 50px;
+}
+#cloud{
+    height: 80px;
+    /* width: 200px; */
+    position: absolute;
+    bottom: 150px;
+    left: 300px;
+}
+#mount{
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 7px;
+
+}
+#cloud1{
+    height: 100px;
+    width: 200px;
+    position: absolute;
+    top: 200px;
+    right: 300px;
+
+}
+.megh{
+    height:200px;
+    width:200px;
+    position: relative;
+    bottom: 5px;
+    left: 5px;
+}
+.programming{
+   width: 25%;
+   float: left;
+   margin-right: 30px;
+}
+.pizza{
+    width: 25%;
+    float: right;
+   margin-left: 30px;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family:'Source Sans Pro', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
